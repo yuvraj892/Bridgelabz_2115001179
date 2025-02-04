@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\bin\Debug\net6.0\BankAccountSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\refint\BankAccountSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\BankAccountSystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment8\BankAccountSystem\obj\Debug\net6.0\ref\BankAccountSystem.dll

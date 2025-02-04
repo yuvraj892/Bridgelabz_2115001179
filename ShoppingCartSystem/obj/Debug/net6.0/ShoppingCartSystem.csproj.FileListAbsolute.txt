@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\bin\Debug\net6.0\ShoppingCartSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\refint\ShoppingCartSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ShoppingCartSystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment8\ShoppingCartSystem\obj\Debug\net6.0\ref\ShoppingCartSystem.dll
