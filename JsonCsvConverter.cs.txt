@@ -24,13 +24,13 @@ class JsonCsvConverter
         try
         {
             // Read JSON file content
-            string jsonContent = File.ReadAllText("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\students.json");
+            string jsonContent = File.ReadAllText("D:\Cspract\25 feb\\students.json");
 
             // Deserialize JSON to list of Student objects
             List<Student> students = JsonSerializer.Deserialize<List<Student>>(jsonContent);
 
             // Write to CSV file
-            using (var writer = new StreamWriter("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\students_from_json.csv"))
+            using (var writer = new StreamWriter("D:\Cspract\25 feb\\students_from_json.csv"))
             using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
             {
                 // Write all records to the file
@@ -56,7 +56,7 @@ class JsonCsvConverter
             List<Student> students = new List<Student>();
 
             // Read CSV file
-            using (var reader = new StreamReader("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\students.csv"))
+            using (var reader = new StreamReader("D:\Cspract\25 feb\\25 feb\\students.csv"))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
                 // Get all records and convert to list
@@ -71,7 +71,7 @@ class JsonCsvConverter
             string jsonString = JsonSerializer.Serialize(students, options);
 
             // Write to JSON file
-            File.WriteAllText("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\students_from_csv.json", jsonString);
+            File.WriteAllText("D:\Cspract\25 feb\\students_from_csv.json", jsonString);
 
             // Display success message
             Console.WriteLine("CSV to JSON conversion completed successfully.");

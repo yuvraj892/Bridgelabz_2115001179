@@ -13,7 +13,7 @@ class DetectDuplicates
         Dictionary<int, List<Record>> recordsById = new Dictionary<int, List<Record>>();
 
         // Read the CSV file
-        using (var reader = new StreamReader("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\data.csv"))
+        using (var reader = new StreamReader("D:\Cspract\25 feb\\data.csv"))
         using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
         {
             // Get all records from the CSV file

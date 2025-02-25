@@ -12,7 +12,7 @@ class UpdateCSV
         List<Employee> employees = new List<Employee>();
 
         // Read the original CSV file
-        using (var reader = new StreamReader("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\employees.csv"))
+        using (var reader = new StreamReader("D:\Cspract\25 feb\\employees.csv"))
         using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
         {
             // Get all records from the CSV file
@@ -34,7 +34,7 @@ class UpdateCSV
         }
 
         // Write updated records to a new CSV file
-        using (var writer = new StreamWriter("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\employees_updated.csv"))
+        using (var writer = new StreamWriter("D:\Cspract\25 feb\\employees_updated.csv"))
         using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
         {
             // Write all records to the new file

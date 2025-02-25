@@ -12,7 +12,7 @@ class SearchRecords
         Console.Write("Enter the name: ");
         string InputName = Console.ReadLine();
 
-        using (var reader = new StreamReader("D:\\AVS\\BridgeLabz\\assignment\\25 feb\\student_details.csv"))
+        using (var reader = new StreamReader("D:\Cspract\25 feb\\student_details.csv"))
         using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
         {
             var records = csv.GetRecords<Student>().ToList(); 

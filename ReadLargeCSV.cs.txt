@@ -10,7 +10,7 @@ class ReadLargeCSV
     public static void Main(string[] args)
     {
         // Path to the large CSV file
-        string filePath = "D:\\AVS\\BridgeLabz\\assignment\\25 feb\\large_data.csv";
+        string filePath = "D:\Cspract\25 feb\\large_data.csv";
 
         // Counter for total records processed
         int totalRecordsProcessed = 0;
