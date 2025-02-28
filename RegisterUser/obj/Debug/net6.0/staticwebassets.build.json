@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sJjg3Sz21QQ5+68rSkCHj2KzJ3hdOj0T2zoJDTxjKxU=",
+  "Source": "RegisterUser",
+  "BasePath": "_content/RegisterUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegisterUser/1.0.0": {
+        "dependencies": {
+          "BusinessLayerRU": "1.0.0"
+        },
+        "runtime": {
+          "RegisterUser.dll": {}
+        }
+      },
+      "BusinessLayerRU/1.0.0": {
+        "dependencies": {
+          "RepositoryLayerRU": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayerRU.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ModelLayerRU/1.0.0": {
+        "runtime": {
+          "ModelLayerRU.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RepositoryLayerRU/1.0.0": {
+        "dependencies": {
+          "ModelLayerRU": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryLayerRU.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegisterUser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLayerRU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelLayerRU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryLayerRU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
