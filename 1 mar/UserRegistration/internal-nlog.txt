@@ -1,0 +1,45 @@
+2025-03-01 22:46:03.9989 Info Registered target NLog.Targets.FileTarget(Name=file)
+2025-03-01 22:46:04.0177 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-03-01 22:46:04.1111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-01 22:46:04.2180 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:46:04.3616 Info Configuration initialized.
+2025-03-01 22:46:07.3609 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:51:37.8691 Info Registered target NLog.Targets.FileTarget(Name=file)
+2025-03-01 22:51:37.8691 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-03-01 22:51:37.8920 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-01 22:51:37.9215 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:51:37.9399 Info Configuration initialized.
+2025-03-01 22:51:38.1760 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:51:38.2496 Info Shutdown() called. Logger closing...
+2025-03-01 22:51:38.2496 Info Closing old configuration.
+2025-03-01 22:51:38.2829 Info Logger has been closed down.
+2025-03-01 22:52:11.1057 Info Registered target NLog.Targets.FileTarget(Name=file)
+2025-03-01 22:52:11.1057 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-03-01 22:52:11.1262 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-01 22:52:11.1447 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:52:11.1589 Info Configuration initialized.
+2025-03-01 22:52:11.2815 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:52:11.3089 Info Shutdown() called. Logger closing...
+2025-03-01 22:52:11.3089 Info Closing old configuration.
+2025-03-01 22:52:11.3417 Info Logger has been closed down.
+2025-03-01 22:52:23.7338 Info Registered target NLog.Targets.FileTarget(Name=file)
+2025-03-01 22:52:23.7379 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-03-01 22:52:23.7379 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-01 22:52:23.7732 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:52:23.7903 Info Configuration initialized.
+2025-03-01 22:52:23.9220 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:52:23.9661 Info Shutdown() called. Logger closing...
+2025-03-01 22:52:23.9661 Info Closing old configuration.
+2025-03-01 22:52:24.0036 Info Logger has been closed down.
+2025-03-01 22:53:17.9984 Info Registered target NLog.Targets.FileTarget(Name=file)
+2025-03-01 22:53:18.0081 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-03-01 22:53:18.0365 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-01 22:53:18.0865 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:53:18.1197 Info Configuration initialized.
+2025-03-01 22:53:18.9651 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:56:45.7090 Info Registered target NLog.Targets.FileTarget(Name=file)
+2025-03-01 22:56:45.7125 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-03-01 22:56:45.7125 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-01 22:56:45.7409 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
+2025-03-01 22:56:45.7533 Info Configuration initialized.
+2025-03-01 22:56:45.8998 Info Validating config: TargetNames=file, console, ConfigItems=22, FilePath=D:\AVS\BridgeLabz\assignment\1 mar\UserRegistration\bin\Debug\net6.0\nlog.config
